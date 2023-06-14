@@ -2,7 +2,7 @@
 
 
 ### My name is Alena Shkolnaia 👩🏻‍💻
-I'm a junior in Data Analysis. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
+I'm a junior in Data Analysis. 
 
 - __Databases:__ <br>
 *PostgreSQL, MySQL*
